@@ -1,0 +1,89 @@
+[{
+		"id": 2,
+		"name": "PAB05",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 5,
+		"name": "PAB08",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 6,
+		"name": "PAB10",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 7,
+		"name": "PAB11",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 8,
+		"name": "PAB12",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 10,
+		"name": "PHK13",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 11,
+		"name": "PHK14",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	{
+		"id": 12,
+		"name": "PHK15",
+		"fleet": 0,
+		"last_known_state": 0,
+		"last_known_position": {
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	}
+]
